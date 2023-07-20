@@ -1,3 +1,4 @@
+// ./src/pages/Profile.tsx
 import styled from "styled-components";
 import Name from "../shared/Name";
 import Avatar from "../shared/Avatar";

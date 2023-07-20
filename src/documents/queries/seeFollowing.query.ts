@@ -1,3 +1,4 @@
+// ./src/documents/queries/seeFollowing.query.ts
 import gql from "graphql-tag";
 
 export const SEE_FOLLOWING = gql`

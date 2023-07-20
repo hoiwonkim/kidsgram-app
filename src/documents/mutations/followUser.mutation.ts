@@ -1,3 +1,4 @@
+// ./src/documents/mutations/followUser.mutation.ts
 import gql from "graphql-tag";
 
 gql`
